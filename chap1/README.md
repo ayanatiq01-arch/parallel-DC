@@ -45,8 +45,4 @@ git commit -m "Created chap1 folder with notes and README file"
 git push origin main
 # Uploads (pushes) your committed changes to your GitHub main branch.
 
-CONCLUSION:
-The results show that multiprocessing performs faster than multithreading for this CPU-intensive calculation.
-This is because processes run on separate CPU cores, enabling true parallel execution, while threads share the same memory space and are limited by Python’s Global Interpreter Lock (GIL).
 
-In summary, for CPU-bound tasks, multiprocessing is more efficient, whereas multithreading is better suited for I/O-bound operations.
