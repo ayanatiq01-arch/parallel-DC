@@ -1,4 +1,4 @@
-![output](https://github.com/ayanatiq01-arch/parallel-DC/blob/main/chap1/output.JPG?raw=true)
+![output](https://github.com/ayanatiq01-arch/parallel-DC/blob/main/output.JPG?raw=true)
 
 
 ## 🧠 Conclusion
