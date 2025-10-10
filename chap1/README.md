@@ -48,6 +48,7 @@ git push origin main
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+![Output Screenshot](https://github.com/ayanatiq01-arch/parallel-DC/blob/main/chap1/output.JPG?raw=true)
 
 ## 🧠 Conclusion
 The results show that multiprocessing performs faster than multithreading for this CPU-intensive calculation.
