@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Chapter 2 – Threading with Lock Demonstration
 
-![with lock][P-DC/lock.JPG]
+![with lock][https://github.com/ayanatiq01-arch/parallel-DC/blob/c90786e24c8722143d67e60d0fd554bd9a5adf9a/lock.JPG]
 
 ---
 
