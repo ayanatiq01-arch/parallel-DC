@@ -1,22 +1,10 @@
 <<<<<<< HEAD
 # Chapter 2 – Threading with Lock Demonstration
 
-## Screenshots of Output
-
-### 1. With Lock
-![With Lock](lock.JPG)
-
-### 2. Partial Lock
-![Partial Lock](lock2.JPG)
-
-### 3. Without Lock
-![Without Lock](thread.JPG)
 
 ---
 
 ## Conclusion
-
-In this experiment, three threading cases were tested to compare execution time and data consistency using different lock mechanisms.
 
 1. **Without Lock:**  
    - Execution Time: **~3.006 seconds**  
