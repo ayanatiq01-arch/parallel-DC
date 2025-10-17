@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chapter 2 – Threading with Lock Demonstration
 
 ## Screenshots of Output
@@ -34,3 +35,6 @@ In this experiment, three threading cases were tested to compare execution time 
 
 **Final Verdict:**  
 Using a lock ensures **data accuracy and consistency** by preventing race conditions but increases **execution time**. Without a lock, threads run faster but cause data corruption. Therefore, choosing between speed and accuracy depends on the nature of the application.
+=======
+
+>>>>>>> d05f7f3399cbcc2f92c25d38fca285d6c4137491
