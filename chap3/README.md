@@ -1,4 +1,4 @@
-**OUTPUT:
+#OUTPUT:
 
 ![killing sc](https://raw.githubusercontent.com/ayanatiq01-arch/parallel-DC/f5a2cc506817e693d5970eb54eaadcd83e683ee5/P-DC/killing%20sc.JPG)
 
