@@ -11,6 +11,9 @@
 ### 3. Without Lock
 ![Without Lock](thread.JPG)
 
+### 4. Rlock 
+![RLock Screenshot](https://raw.githubusercontent.com/ayanatiq01-arch/parallel-DC/30e03df6b523e8ea279b4bd612715eb5154fc8ed/P-DC/Rlock%20ss.JPG)
+
 ---
 
 ## Conclusion
