@@ -1,19 +1,21 @@
-<<<<<<< HEAD
 # Chapter 2 – Threading with Lock Demonstration
 
-![Thread Demonstration](https://raw.githubusercontent.com/ayanatiq01-arch/parallel-DC/main/P-DC/thread.JPG)
+## Screenshots of Output
 
-![Lock Demonstration](https://raw.githubusercontent.com/ayanatiq01-arch/parallel-DC/main/P-DC/lock.JPG)
+### 1. With Lock
+![With Lock](lock.JPG)
 
-![Lock 2 Demonstration](https://raw.githubusercontent.com/ayanatiq01-arch/parallel-DC/main/P-DC/lock2.JPG)
+### 2. Partial Lock
+![Partial Lock](lock2.JPG)
 
-
-
-
+### 3. Without Lock
+![Without Lock](thread.JPG)
 
 ---
 
 ## Conclusion
+
+In this experiment, three threading cases were tested to compare execution time and data consistency using different lock mechanisms.
 
 1. **Without Lock:**  
    - Execution Time: **~3.006 seconds**  
@@ -32,6 +34,3 @@
 
 **Final Verdict:**  
 Using a lock ensures **data accuracy and consistency** by preventing race conditions but increases **execution time**. Without a lock, threads run faster but cause data corruption. Therefore, choosing between speed and accuracy depends on the nature of the application.
-=======
-
->>>>>>> d05f7f3399cbcc2f92c25d38fca285d6c4137491
