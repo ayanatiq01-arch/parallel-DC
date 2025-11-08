@@ -5,7 +5,6 @@
 ### 1. With Lock
 ![With Lock](lock.JPG)
 
-### 2. Partial Lock
 ![Partial Lock](lock2.JPG)
 
 ### 3. Without Lock
